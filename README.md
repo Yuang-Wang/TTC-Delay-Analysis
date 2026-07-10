@@ -440,6 +440,6 @@ Potential future improvements include:
 
 ## Author
 
-**Jim Wang**
+**Yuang Wang**
 
 Data analysis project using Python, MySQL, and Power BI.
